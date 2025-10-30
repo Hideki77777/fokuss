@@ -48,5 +48,3 @@ longoBt.addEventListener('click', () => {
     alterarContexto('descanso-longo');
     longoBt.classList.add('active');
 });
-
-dj
